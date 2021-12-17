@@ -24,7 +24,4 @@ Table description: ![image](https://user-images.githubusercontent.com/79366498/1
 
 Todo description: обычный todo list
 
-Calc description: 
-![image](https://user-images.githubusercontent.com/79366498/121425294-eaf43c80-c97a-11eb-9874-9c22b2dce317.png)
-самый тривиальный калькулятор.
 # projects
