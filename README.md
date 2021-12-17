@@ -1,4 +1,4 @@
-# forHHunter
+# projects
 некоторые проект из school 21:
 
 https://cdn.intra.42.fr/pdf/pdf/31324/en.subject.pdf (в процессе выполнения)
